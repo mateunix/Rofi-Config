@@ -28,7 +28,7 @@ window {
     height:                      18%;
     width:                       99.5%;
     x-offset:                    5px;
-    y-offset:                    -0.005px;
+    y-offset:                    5px;
 
     enabled:                     true;
     margin:                      0px;
